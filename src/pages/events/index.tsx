@@ -3,7 +3,8 @@ import HeadComponent from "@/components/head";
 import {
   EventsShowCase,
   EventsConfrence,
-  Event
+  Event,
+  EventPricing,
 } from "@/components";
 
 const inter = Inter({ subsets: ["latin"] });
